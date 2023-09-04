@@ -1,0 +1,31 @@
+{
+    "name": "tom cruse",
+    "email": "demo-resume@email.com",
+    "phone": "+1-202-555-1234",
+    "summary": "Experienced software developer with a passion for creating elegant and efficient code.",
+    "skills": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "Python"
+    ],
+    "experience": [
+        {
+            "title": "Front End Developer",
+            "company": "ABC Company",
+            "location": "Chennai",
+        },
+        {
+            "title": "Junior Front End Developer"",
+            "company": "XYZ Corporation",
+            "location": "bangalore",
+        }
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Mechanical Engineering",
+            "school": "Government College of Engineering-salem",
+            "location": "Salem",
+        }
+    ]
+}
